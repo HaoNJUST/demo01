@@ -15,4 +15,4 @@ hello zhanghao! hello git!
 hello zhanghao! hello git!
 hello zhanghao! hello git!
 hello zhanghao! hello git!
-hello zhanghao! hello git!
+hello zhanghao! hello git! hot-fix test
